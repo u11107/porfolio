@@ -1,0 +1,11 @@
+.header {
+    margin: 0 auto;
+    max-width: 1440px;    
+    min-height: 768px;
+    background: rgba(198, 108, 73, 0.3);
+    background-image: url(../../images/bg.jpg);
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 93px;
+     
+}
