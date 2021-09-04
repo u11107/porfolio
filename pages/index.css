@@ -13,3 +13,10 @@
 @import url(../blocks/about/__header/about__header.css);
 @import url(../blocks/about/__text/about__text.css);
 @import url(../blocks/about/__paragraph/about__paragraph.css);
+
+@import url(../blocks/skills/skills.css);
+@import url(../blocks/skills/__header/skills__header.css);
+@import url(../blocks/skills/__img/skills__img.css);
+@import url(../blocks/skills/__item/skills__item.css);
+@import url(../blocks/skills/__list/skills__list.css);
+@import url(../blocks/skills/__bold/skills__bold.css);
